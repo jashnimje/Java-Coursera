@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\Jash\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932\jre" version="14.0.2"/>
+    <libraryInfo home="C:\Users\Jash\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932" version="14.0.2"/>
+    <libraryInfo home="E:\Software\IDE\Java\jdk-15.0.1\bin" version="15.0.1"/>
+    <libraryInfo home="E:\Software\IDE\Java\jdk-1.8\bin" version="1.8.0_261">
+        <bootpath>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\resources.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\rt.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\sunrsasign.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\jsse.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\jce.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\charsets.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\jfr.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\ext"/>
+            <entry path="C:\Windows\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\Software\IDE\Java\jdk-1.8" version="1.8.0_261">
+        <bootpath>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\resources.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\rt.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\sunrsasign.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\jsse.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\jce.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\charsets.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\jfr.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\ext"/>
+            <entry path="C:\Windows\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\Software\IDE\Java\jdk-1.8\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\Software\IDE\Java\jdk-15\bin" version="15"/>
+    <libraryInfo home="E:\Software\IDE\Java\jdk - 8" version="1.8.0_271">
+        <bootpath>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\resources.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\rt.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\sunrsasign.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\jsse.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\jce.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\charsets.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\jfr.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\ext"/>
+            <entry path="C:\Windows\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\Software\IDE\Java\jdk - 8\bin" version="1.8.0_271">
+        <bootpath>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\resources.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\rt.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\sunrsasign.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\jsse.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\jce.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\charsets.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\jfr.jar"/>
+            <entry path="E:\Software\IDE\Java\jdk - 8\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\ext"/>
+            <entry path="C:\Windows\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\Software\IDE\Java\jdk - 8\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

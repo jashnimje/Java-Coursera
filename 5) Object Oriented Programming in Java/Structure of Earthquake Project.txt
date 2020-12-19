@@ -1,0 +1,11 @@
+Structure of Earthquake Project
+
+	      Marker
+		|
+	AbstractMarker
+		|
+	SimplePointMarker
+	|		|
+CityMarker	EarthquakeMarker
+		|		|
+	LandQuakeMarker		OceanQuakeMarker
